@@ -29,7 +29,7 @@
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["/bower_components/webcomponentsjs/webcomponents-lite.min.js","a1882f82ebfc212658591b4e817d8e03"],["/index.html","1572f4fdf7f2c42dfbc114a666a44b74"],["/manifest.json","7ea2d110149dc2c9c103f601c59ef09b"],["/src/my-app.html","98a1cde846aa876d96105c2afa0a6d2c"],["/src/my-view1.html","d84904e0de2b633d17891eec6434cc62"]];
+var PrecacheConfig = [["/bower_components/webcomponentsjs/webcomponents-lite.min.js","a1882f82ebfc212658591b4e817d8e03"],["/index.html","1572f4fdf7f2c42dfbc114a666a44b74"],["/manifest.json","7ea2d110149dc2c9c103f601c59ef09b"],["/src/my-app.html","cf10db51b71bd86d75e48da9a91be4bd"],["/src/my-view1.html","8fc8cbf299cc78396f739c0e951b6232"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1--' + (self.registration ? self.registration.scope : '') + '-';
 
